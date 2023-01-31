@@ -18,7 +18,7 @@
   Tarayıcınız video etiketini desteklemiyor.
 </video>
 
-
+__________________________________________________________________________________________________________________________________________________________
 # Python İle Bilgisayara İzinsiz Girenleri Yakalayın
 
 <h2>🔒 Bu python kodu sisteminize giren herkesin otomatik fotoğrafını çeken bir arkaplan yazılımı. Peki çektikten sonra ne oluyor anlık olarak size telegram aracılığı ile gönderiyor. Peki O anda internet olmazssa ne olucak? Hiç problem değil kodun başında belirttiğiniz kayıt yoluna kaydeder ve istediğiniz zaman ordan erişebilirsiniz.</h2>
