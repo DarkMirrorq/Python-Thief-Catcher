@@ -2,16 +2,15 @@
 
 <h2>🔒 Bu python kodu sisteminize giren herkesin otomatik fotoğrafını çeken bir arkaplan yazılımı. Peki çektikten sonra ne oluyor anlık olarak size telegram aracılığı ile gönderiyor. Peki O anda internet olmazssa ne olucak? Hiç problem değil kodun başında belirttiğiniz kayıt yoluna kaydeder ve istediğiniz zaman ordan erişebilirsiniz.</h2>
 &nbsp
-<h2>🔐 Önemli Noktalar:<h3>
+<h2>🔐 Önemli Noktalar:
 <h2>🔑Kodunuzu Çalıştırmadan Önce Botunuzu Hesabınızdan Başlatın.
-🔑Bot Token,Chat İd,Kayıt Yolu gibi değişkenleri doldurmayı unutmayın.<h2>
+<h2>🔑Bot Token,Chat İd,Kayıt Yolu gibi değişkenleri doldurmayı unutmayın.<h2>
 <h2>🔑Requests ve CV2 modüllerini indirmeyi unutmayın.<h2>
 <h2>🔑Python dosyasını .pyw olarak kaydedin bu şekilde kaydedildiği zaman terminal görünmeden çalışır.<h2>
 🔑Dosyanızı bilgisayar her açıldığında çalıştırılması için windows görev zamanlayacısına ekleyin. Aşağıda nasıl yapılacağı ile ilgili video var.
 
 <video width="500" height="420" controls="controls">
-  <source src="video.mp4" type="video/mp4" />
-  <source src="video.ogg" type="video/ogg" />
+  <source src="https://github.com/DarkMirrorq/Python-Thief-Catcher/blob/master/video.mp4"
   Tarayıcınız video etiketini desteklemiyor.
 </video>
 
