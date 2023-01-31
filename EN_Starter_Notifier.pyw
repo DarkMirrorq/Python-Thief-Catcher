@@ -1,8 +1,8 @@
 import requests # Module required to send a message
 import cv2# Camera Module
 
-bot_token = "1833604651:AAH2zP7mxtvQ-hYSDcsFVWmrla7lsWj8Xpw" #Bot Token You Got From Bot Father
-chat_id = "1480907457" # Chat id to learn https://t.me/chatıdrobot this boat message will give you a return to chat id.Don't forget to start the bot before using the system.
+bot_token = "" #Bot Token You Got From Bot Father
+chat_id = "" # Chat id to learn https://t.me/chatıdrobot this boat message will give you a return to chat id.Don't forget to start the bot before using the system.
 kayıt_yolu = "D:/Poyraz/test.jpg" #Write the place where the photo is taken here after taking the photo, you will not send it without saving it.Example: C: /poyraz/python.jpg, especially at the end of the road filename.jpg.
 
 
