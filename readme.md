@@ -10,7 +10,7 @@
 <h2>🔑Don't forget to fill in variables such as boken, chat id, recording paths.
 <h2>🔑Don't forget to download requests and CV2 modules.
 <h2>🔑Save the python file as .pyw.
-🔑Add your file to the Windows task timer to run your file every time the computer is turned on.There is a video about how to do below.
+<h2>🔑Add your file to the Windows task timer to run your file every time the computer is turned on.There is a video about how to do below.
 
 <video width="500" height="420" controls="controls">
   <source src="video.mp4" type="video/mp4" />
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 <h2>🔑Bot Token,Chat İd,Kayıt Yolu gibi değişkenleri doldurmayı unutmayın.
 <h2>🔑Requests ve CV2 modüllerini indirmeyi unutmayın.
 <h2>🔑Python dosyasını .pyw olarak kaydedin bu şekilde kaydedildiği zaman terminal görünmeden çalışır.
-🔑Dosyanızı bilgisayar her açıldığında çalıştırılması için windows görev zamanlayacısına ekleyin. Aşağıda nasıl yapılacağı ile ilgili video var.
+<h2>🔑Dosyanızı bilgisayar her açıldığında çalıştırılması için windows görev zamanlayacısına ekleyin. Aşağıda nasıl yapılacağı ile ilgili video var.
 
 <video width="500" height="420" controls="controls">
   <source src="https://github.com/DarkMirrorq/Python-Thief-Catcher/blob/master/video.mp4"
