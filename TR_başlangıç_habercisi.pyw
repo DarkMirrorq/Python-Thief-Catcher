@@ -1,8 +1,8 @@
 import requests # Mesaj Göndermek İçin Gerekli Olan Modül
 import cv2# Kamera Modülü
 
-bot_token = "1833604651:AAH2zP7mxtvQ-hYSDcsFVWmrla7lsWj8Xpw" # Botfather Dan Aldığınız Bot Tokeni
-chat_id = "1480907457" # chat id öğrenmek için https://t.me/chatIDrobot bu bota mesaj atın size geri dönüş olarak chat id vericek. Sistemi kullanamdan önce botu başlatmayı unutmayın.
+bot_token = "" # Botfather Dan Aldığınız Bot Tokeni
+chat_id = "" # chat id öğrenmek için https://t.me/chatIDrobot bu bota mesaj atın size geri dönüş olarak chat id vericek. Sistemi kullanamdan önce botu başlatmayı unutmayın.
 kayıt_yolu = "D:/Poyraz/test.jpg" #Buraya Fotoğrafın Çekildikten sonra kaydedilceği yeri yazın bunun sebebi kaydetmeden göndermezsiniz. Örnek: C:/Poyraz/python.jpg özellikle yolun sonuna dosyaismi.jpg yazmayı unutmayın.
 
 
